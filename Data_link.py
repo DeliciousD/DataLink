@@ -17,10 +17,6 @@ class DataLink():
         
         requirements:
             sudo apt-get install inotify-tools
-        
-        unused commands:
-            source_path = 'DeliciousD/Sonardyne/data.txt'
-            sftp.put_dir(source_path, target_path)
             
         """
         # SFTP
